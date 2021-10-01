@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Minazak1&show_icons=true&theme=buefy&count_private=true&include_all_commits=true" /> 
 
-- 🔭 I’m currently working on a discord bot
+- 🔭 Working on personal projects
 - 🌱 I’m currently learning JavaScript
 - 📫 Discord: JUMPER#3518
 - 🎉 Funny guy
