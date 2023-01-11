@@ -12,8 +12,6 @@
 
 <br>
 
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=Minazak1&theme=flat&no-frame=true&margin-w=30" />
-</div>
+
 
 
