@@ -6,7 +6,7 @@
 
 - 🔭 Working on personal projects
 - 🌱 I’m currently learning JavaScript
-- 📫 Discord: JUMPER#3518
+- 📫 Discord: JUMPER#5555
 - 🎉 Funny guy
 - 🕶 Cool nerd
 
