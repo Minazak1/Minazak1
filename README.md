@@ -5,8 +5,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Minazak1&show_icons=true&theme=buefy&count_private=true&include_all_commits=true" /> 
 
 - 🔭 Working on personal projects
-- 🌱 I’m currently learning JavaScript FrameWorks,
-      Python, Cybersecurity and more
+- 🌱 I’m currently learning C++
 - 📫 Discord: JUMPER#9754
 - 🎉 Funny guy
 <br>
