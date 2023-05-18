@@ -7,6 +7,6 @@
 - 🔭 Working on personal projects
 - 🌱 I’m currently learning JavaScript FrameWorks,
       Python, Cybersecurity and more
-- 📫 Discord: JUMPER#5555
+- 📫 Discord: JUMPER#9754
 - 🎉 Funny guy
 <br>
